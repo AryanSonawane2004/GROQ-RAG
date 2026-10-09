@@ -135,7 +135,7 @@ export default function RAGChatPage() {
               <h2 className="text-lg font-bold tracking-tight text-orange-400 flex items-center gap-2">
                 <span>⚡</span> Groq RAG
               </h2>
-              <p className="text-[11px] text-slate-500">Llama 3.3 70B • BYOK Privacy</p>
+              <p className="text-[11px] text-slate-500">OPEN AI - GPT OSS 20B • BYOK Privacy</p>
             </div>
             <button
               onClick={() => setIsSidebarOpen(false)}
